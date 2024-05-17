@@ -1,0 +1,17 @@
+{
+    "name": "code-music-player",
+    "version": "1.0.0",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "sass": "sass sass:assets/css -w"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "sass": "^1.77.1"
+    },
+    "devDependencies": {},
+    "description": ""
+}
